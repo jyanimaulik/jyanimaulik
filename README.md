@@ -18,10 +18,8 @@ Here are some ideas to get you started:
 I'm a MS Data Analytics student at San Jose State University.
 
 ## 🌱 Technical Skills
-* Cloud Platforms : AWS, GCP
-* Programming Languages: Java, Python, C++, Javascirpt, HTML, PL-SQL
-* Database: Oracle SQL, MongoDB
-* Frameworks: NodeJs, Spring Boot, ReactJs
-* Containerization: Docker
-* Additional Skills: Distribtued Systems, Microservice Architecture, RESTful APIs, TCP / IP, HTTP, Web Security 
-* Tools: Git, Apache Kafka
+* Programing and Frameworks/Libraries: Python, SQL, NumPy, Matplotlib, Pandas
+* Visualization Tools : Tableau, Power BI
+* Databases : MySQL, PostgreSQL, CosmosDB, Snowflake
+* Cloud Technologies : Azure(Blob Storage, Data Factory, Synapse Analytics, Data Lake Storage Gen2, Databricks), AWS (EC2, RDS, Redshift, Kinesis, EMR, Lambda)
+* Big Data and Data Processing : Hadoop, Hive, PySpark, Kafka, Airflow, Databricks
